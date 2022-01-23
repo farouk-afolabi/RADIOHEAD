@@ -1,0 +1,12 @@
+ /* to create main application styles  */
+ * {
+   box-sizing: border-box;
+   
+   scroll-behavior: smooth;
+ }
+
+ html, body {
+    padding: 0;
+    margin: 0;
+
+ }
